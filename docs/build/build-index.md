@@ -50,4 +50,4 @@ Polkadot Contracts Proposals (PCPs) are standards for smart contracts in the Pol
 
 ### Hackathon
 
-- [Resources For Running a Hackathon](build-hackathon.md)
+- [Resources For Running a Hackathon](build-hackathon.md) Vikas Reddy
